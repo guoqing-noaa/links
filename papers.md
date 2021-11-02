@@ -3,3 +3,4 @@
 [NCEP dump script](https://github.com/guoqing-noaa/fv3gfs/blob/master/ecf/ecfutils/CROW/model/fv3gfs/outofcontrol_scripts/wcoss_c/dump/exglobal_dump.sh.ecf)  
 [UPP Parameter Table for SRW BGRD3D](https://upp.readthedocs.io/en/latest/SRW_BGRD3D_table.html)&emsp;&emsp;&emsp;[PARAMETERS & UNITS
 ](https://www.nco.ncep.noaa.gov/pmb/docs/on388/table2.html)     
+[ufs model namelists](https://ufs-weather-model.readthedocs.io/en/latest/InputsOutputs.html)   
