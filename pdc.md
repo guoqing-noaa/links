@@ -1,5 +1,5 @@
 Bank:&emsp;
-<a href="https://www.fidelity.com/" target="_blank">Fidelity</a>&emsp;
+<a href="https://www.fidelity.com/" target="_blank" rel="noopener">Fidelity</a>&emsp;
 <a href="https://secure07c.chase.com/web/auth/dashboard#/dashboard/overviewAccounts/overview/index" target="_blank">Chase</a>&emsp;
 <a href="https://portal.discover.com/customersvcs/universalLogin/ac_main" target="_blank">Discover</a>&emsp;
 <a href="" target="_blank"></a>&emsp;
